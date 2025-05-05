@@ -99,8 +99,8 @@ python src/app.py
 ### 5. Connect Dialogflow
 
 - Open Dialogflow CX
-- Import the ZIP from `/dialogflow-agent/NLP-PharmaBot.zip`
-- Set fulfillment URL to your webhook (e.g., using `ngrok` or `localtunnel`)
+- Import the ZIP from `/dialogflow agent [Pharma Bot]/NLP-PharmaBot-agent`
+- Set fulfillment URL to your webhook (e.g., using `ngrok`)
 
 ---
 
