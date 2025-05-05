@@ -10,8 +10,8 @@ This project is a student-level intelligent chatbot system for a pharmacy, using
 FYP_NLP-Chatbot-Development-using-Dialogflow/
 │
 ├── 📂 docs
-│   ├── Final_Report.docx
-│   └── Presentation.pptx
+│   ├── Presentation[Ilsa_BC210203055].pptx
+│   └── Final_Report[Ilsa_BC210203055].docx
 │
 ├── 📂 src
 │   ├── NLP Pharma_Backend (Final)               
