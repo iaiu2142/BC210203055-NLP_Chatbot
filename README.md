@@ -14,11 +14,8 @@ FYP_NLP-Chatbot-Development-using-Dialogflow/
 │   └── Presentation.pptx
 │
 ├── 📂 src
-│   ├── app.py                  # Flask backend
-│   ├── routes.py               # API routes for auth, order, feedback
-│   ├── templates/              # HTML pages (login, dashboard, etc.)
-│   ├── static/                 # CSS, JS files
-│   └── webhook.py              # Dialogflow webhook handler
+│   ├── NLP Pharma_Backend (Final)               
+│   ├── NLP Pharma_Frontend (Final)
 │
 ├── 📂 db
 │   └── pharma_bot.sql          # MySQL database schema with dummy data
